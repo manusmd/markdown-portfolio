@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Backend-Sprachen
+  * PHP
+  * Python
+* Frontend-Sprachen
+  * JavaScript
+  * HTML
+  * CSS
